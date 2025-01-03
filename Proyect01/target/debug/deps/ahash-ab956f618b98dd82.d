@@ -1,0 +1,12 @@
+/home/paulo/Escritorio/Practica/Rust/Proyect01/target/debug/deps/libahash-ab956f618b98dd82.rmeta: /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/lib.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/convert.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/fallback_hash.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/operations.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/random_state.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/specialize.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/hash_map.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/hash_set.rs
+
+/home/paulo/Escritorio/Practica/Rust/Proyect01/target/debug/deps/ahash-ab956f618b98dd82.d: /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/lib.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/convert.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/fallback_hash.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/operations.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/random_state.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/specialize.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/hash_map.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/hash_set.rs
+
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/lib.rs:
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/convert.rs:
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/fallback_hash.rs:
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/operations.rs:
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/random_state.rs:
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/specialize.rs:
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/hash_map.rs:
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/hash_set.rs:

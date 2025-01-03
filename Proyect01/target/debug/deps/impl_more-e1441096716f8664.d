@@ -1,0 +1,12 @@
+/home/paulo/Escritorio/Practica/Rust/Proyect01/target/debug/deps/libimpl_more-e1441096716f8664.rmeta: /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/lib.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/as_ref.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/deref.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/display.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/error.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/from.rs
+
+/home/paulo/Escritorio/Practica/Rust/Proyect01/target/debug/deps/libimpl_more-e1441096716f8664.rlib: /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/lib.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/as_ref.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/deref.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/display.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/error.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/from.rs
+
+/home/paulo/Escritorio/Practica/Rust/Proyect01/target/debug/deps/impl_more-e1441096716f8664.d: /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/lib.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/as_ref.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/deref.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/display.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/error.rs /home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/from.rs
+
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/lib.rs:
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/as_ref.rs:
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/deref.rs:
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/display.rs:
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/error.rs:
+/home/paulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/from.rs:
