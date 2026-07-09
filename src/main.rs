@@ -1,7 +1,7 @@
-use actix_web::{HttpServer,App,HttpResponse,web,http::header,get};
+use actix_web::{HttpServer,App,HttpResponse,http::header,get};
  
 #[get("/")]
-async fn helloWord() -> HttpResponse {
+async fn hello_word() -> HttpResponse {
     HttpResponse::Ok().content_type(header::ContentType::json()).body("{\"message\":\"Hello, World!\"}")    
 }
 
@@ -10,7 +10,7 @@ async fn helloWord() -> HttpResponse {
 async  fn main()-> std::io::Result<()>{
 
     HttpServer::new(|| {
-        App::new().service(helloWord)
+        App::new().service(hello_word)
     })
     .bind(("127.0.0.1", 8080))?
     .run()
