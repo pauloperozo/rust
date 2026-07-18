@@ -1,8 +1,19 @@
-use actix_web:: {post, HttpResponse, web::Json};
+use actix_web::{post, web::Json};
+use utoipa::ToSchema;
 use crate::chat::dto::{ChatRequest, ChatResponse}; 
 
+#[utoipa::path(
+    post,
+    tag = "Chat",
+    path = "/api/chat",
+    request_body = ChatRequest,
+    responses(
+        (status = 200, description = "Respuesta del chat", body = ChatResponse)
+    )
+)]
+
 #[post("/chat")]
-async fn chat(req: Json<ChatRequest>) -> HttpResponse {
+pub async fn chat(req: Json<ChatRequest>) -> Json<ChatResponse> {
 
     let enquiry = &req.enquiry; 
 
@@ -10,6 +21,6 @@ async fn chat(req: Json<ChatRequest>) -> HttpResponse {
         message: format!("You said: {}", enquiry),
     };  
 
-    HttpResponse::Ok().json(response)
+    Json(response)
 }
 
