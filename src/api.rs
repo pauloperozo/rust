@@ -1,5 +1,4 @@
 use utoipa::OpenApi;
-use crate::chat::handlers::chat;
 
 #[derive(OpenApi)]
 #[openapi(

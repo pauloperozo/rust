@@ -1,5 +1,4 @@
 use actix_web::{post, web::Json};
-use utoipa::ToSchema;
 use crate::chat::dto::{ChatRequest, ChatResponse}; 
 
 #[utoipa::path(
