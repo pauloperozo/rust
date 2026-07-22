@@ -3,10 +3,10 @@ use utoipa::OpenApi;
 #[derive(OpenApi)]
 #[openapi(
     tags(
-        (name = "Chat", description = "API para el chat")       
+        (name = "Webhook", description = "API para el webhook")
     ),
     paths(
-        crate::chat::handlers::chat
+        crate::handlers::webhook
     ),
 )]
 pub struct ApiDoc;
